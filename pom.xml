@@ -63,7 +63,7 @@
 	</dependencies>
 
 	<build>
-	  <finalName>travel-backend</finalName>
+	  <finalName>jenkins-backend</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
