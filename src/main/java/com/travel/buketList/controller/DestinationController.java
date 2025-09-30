@@ -33,7 +33,7 @@ public class DestinationController {
         return "Working Jenkins Deployment....";
     }
     @GetMapping("/klu")
-    public String Jenkins() 
+    public String klu() 
     {
         return "This is jenkins labexam....";
     }
